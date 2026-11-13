@@ -10,6 +10,6 @@
 - **[GORKY](https://github.com/anastbezu/gorkycode-test)** — хакатон GORKYCODE: ядро голосового ассистента-планировщика, интеграция с Google Calendar, 557/581 на автотестах.
 - **[openJiuwen Burn Rate](https://github.com/sergei0908/openJiuwen)** — хакатон Huawei: оценщик стоимости запросов (в 2,6 раза точнее базового), решатели для математики и поиска, 96,9% на бенчмарке.
 
-**Стек:** Python, GigaChat API, function calling, pytest, ruff, Docker, GitHub Actions
+**Стек:** Python, GigaChat API, Gemini API, function calling, pytest, ruff, Docker, GitHub Actions
 
 **Связь:** [Telegram @voidprotector](https://t.me/voidprotector) · [ilolburmistrov@edu.hse.ru](mailto:ilolburmistrov@edu.hse.ru)

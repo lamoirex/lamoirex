@@ -1,15 +1,22 @@
 ### Илья Бурмистров
-
+ 
 Разрабатываю LLM-агентов: tool calling, детерминированные движки под агентом, автотесты и замер качества прогонами.
-
+ 
 Учусь в НИУ ВШЭ и «Школе 21».
+ 
+**Хакатоны**
+ 
+- 🥇 **openJiuwen Cup 2026 (Huawei)** — 1 место в Нижнем Новгороде (зачёт по городам).
+- 🥇 **GORKYCODE 2026** — 1 место в треке «Кадры», 4 место в общем зачёте.
 
 **Проекты**
-
+ 
+- **[team-gorky-9/hr](https://github.com/team-gorky-9/hr)** — финал хакатона GORKYCODE, трек «Кадры»: единое окно кадровой службы администрации Нижнего Новгорода, от отклика до развития сотрудника. Мой вклад — ИИ-оценка резюме: каждый вывод подтверждён цитатой, без годной цитаты — «нужно уточнить»; светофор откликов, гайд телефонного интервью, сервис оформления на работу с кабинетом кандидата, подбор вакансий и годовой отчёт. Разбор отклика: с 15 минут → 2 минут, 41/41 контрольных случаев на YandexGPT.
 - **[gigacowork-logist-agent](https://github.com/lamoirex/gigacowork-logist-agent)** — агент для GigaCowork, который распределяет упаковочные листы между логистами по трём Excel-выгрузкам. Правила считает Python-движок, LLM только запускает его и объясняет решения. GigaChat-2-Max: 100% точность на 9 прогонах, 26/27 ответов на уточняющие вопросы. CI, Docker, 88% покрытия тестами.
-- **[GORKY](https://github.com/anastbezu/gorkycode-test)** — хакатон GORKYCODE: ядро голосового ассистента-планировщика, интеграция с Google Calendar, 557/581 на автотестах.
-- **[openJiuwen Burn Rate](https://github.com/sergei0908/openJiuwen)** — хакатон Huawei: оценщик стоимости запросов (в 2,6 раза точнее базового), решатели для математики и поиска, 96,9% на бенчмарке.
+- **[GORKY](https://github.com/lamoirex/GORKY)** — хакатон GORKYCODE: ядро голосового ассистента-планировщика, интеграция с Google Calendar, 557/581 на автотестах.
+- **[openJiuwen Burn Rate](https://github.com/lamoirex/openjiuwen-burn-rate)** — хакатон Huawei, 1 место в Нижнем Новгороде: оценщик стоимости запросов (в 2,6 раза точнее базового), решатели для математики и поиска, 96,9% на бенчмарке.
 
-**Стек:** Python, GigaChat API, Gemini API, function calling, pandas, pytest, ruff, Docker, GitHub Actions
-
+**Стек:** Python, YandexGPT API, GigaChat API, Gemini API, function calling, pandas, pytest, ruff, Docker, GitHub Actions
+ 
 **Связь:** [Telegram @voidprotector](https://t.me/voidprotector) · [ilolburmistrov@edu.hse.ru](mailto:ilolburmistrov@edu.hse.ru)
+ 
